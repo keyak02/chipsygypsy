@@ -2,9 +2,9 @@
   "name": "chipsygypsy",
   "version": "0.2.0",
   "description": "chipsygypsy Blog",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.13.3"
